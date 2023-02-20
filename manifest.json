@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Work Tabs",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "description": "An extension for marking the tabs on today work.",
+
+        "author": "contact@garygary.co",  
+
+
+    "permissions": [
+        "tabs"
+    ]
+
+    
+    
+}
